@@ -51,5 +51,5 @@ How it Works:
     tracker.export_csv('output.csv')
 
 Coming Soon:
-    - Plot spending vs. budget
-    - Web UI
+- Plot spending vs. budget
+- Web UI
