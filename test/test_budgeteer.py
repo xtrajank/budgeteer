@@ -1,4 +1,4 @@
-import pytest
+import pytest # type: ignore
 import pandas as pd
 from src.budgeteer import BudgetTracker
 
